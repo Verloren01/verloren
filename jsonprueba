@@ -1,0 +1,13 @@
+[
+ {
+ "run": "20728860-8",
+ "nombre": "Diego",
+ "apellido": "Cataldo",
+ "direccion": "sta l 863",
+ "fono": 993037806,
+ "correo":"diegocataldo01@gmail.com",
+ "montoCredito": 1200000,
+ "deuda":0,
+ "tipo": 3
+ }
+]
